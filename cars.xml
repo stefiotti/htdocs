@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <make>Volvo</make>
+        <model>Volvo C70 </model>
+        <style>Convertible Car Type</style>
+        <year>1997–2013</year>
+        <color>Red</color>
+    </car>
+
+    <car>
+        <make>Volvo</make>
+        <model>Volvo C30</model>
+        <style>Compact Car Type</style>
+        <year>2006–2013</year>
+        <color>White</color>
+    </car>
+    <car>
+        <make>Volvo</make>
+        <model>Volvo S40</model>
+        <style>Compact Car Type</style>
+        <year>1995–2012</year>
+        <color>Black</color>
+    </car>    
+    <car>
+        <make>Volvo</make>
+        <model>Volvo V40</model>
+        <style>Compact Car Type</style>
+        <year>2012–present</year>
+        <color>Gray</color>
+    </car>
+    <car>
+        <make>Volvo</make>
+        <model>Volvo S60</model>
+        <style>Compact Executive Car Type</style>
+        <year>2000–present</year>
+        <color>Purple</color>
+    </car>
+        <car>
+        <make>Volvo</make>
+        <model>Volvo XC60</model>
+        <style>Crossover SUV Car Type</style>
+        <year>2008–present</year>
+        <color>White</color>
+    </car>
+
+    <car>
+        <make>Volvo</make>
+        <model>Volvo S80</model>
+        <style>Executive Car Type</style>
+        <year>1998–present</year>
+        <color>Azure</color>
+    </car>
+    <car>
+        <make>Volvo</make>
+        <model>Volvo XC90</model>
+        <style>Mid-size SUV Car Type</style>
+        <year>1996–present</year>
+        <color>Metallic Blue</color>
+    </car>    
+    <car>
+        <make>Volvo</make>
+        <model>Volvo V70</model>
+        <style>Mid-size SUV Car Type</style>
+        <year>1996–present</year>
+        <color>Silver</color>
+    </car>
+    <car>
+        <make>Volvo</make>
+        <model>Volvo XC70</model>
+        <style>Mid-size SUV Car Type</style>
+        <year>2002–present</year>
+        <color>Black</color>
+    </car>
+</cars>

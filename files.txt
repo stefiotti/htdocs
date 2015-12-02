@@ -1,0 +1,19 @@
+<ol>
+            <li>South Congress</li>
+            <li>Martin Luther King</li>
+            <li>Cameron</li>
+            <li>Cherrywood</li>
+            <li>6th</li>
+            </ol><ol>
+            <li>South Congress</li>
+            <li>Martin Luther King</li>
+            <li>Cameron</li>
+            <li>Cherrywood</li>
+            <li>6th</li>
+            </ol>
+            <li>--Main north and south city throughfare.</li>
+            <li>--East side throughfare with lots of shops and bars</li>
+            <li>--Located in North West Austin.  Very close to new developments</li>
+            <li>--North East Austin.  Home to Cherrywood coffee house and many restaurants</li>
+            <li>--Central Austin.  The center of college night life.</li>
+            
